@@ -1,0 +1,36 @@
+Hashing algorithms
+
+	Message Digest Service Algorithm - 128 bits
+		MD2, MD4 and MD5
+
+	Secure Hash Algorithm
+		SHA, SHA1 160 bits
+
+Symmetric key algorithms
+
+	Data Encryption Standard
+		DES - 64 bits
+		3DES - 168 bits
+
+	Advanced Encryption Standart (AES) - 128 bits
+
+	BlowFish - 32 up to 448 bits
+
+	International Data Encryption Algorithm (IDEA) - 128 bits
+
+	CAST - 64 and 128 bits
+
+	Rivest Cipher (RC)
+		RC2 - up to 1024 bits
+		RC4 - 8 up to 2048 bits
+		RC6 - 128, 192 and 256 bits
+
+Asymmetric key algorithms (Public Key Encryption)
+	
+	Ron Rivest, Adi Shamir and Leonard Adleman (RSA)
+
+	Diffie-Hellman
+
+	ElGamal
+
+	Elliptic Curve Cryptography (ECC)
